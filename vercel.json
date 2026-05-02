@@ -1,5 +1,4 @@
 {
-  "buildCommand": "cp -r public/* .",
   "functions": {
     "api/chat.js": {
       "maxDuration": 30
